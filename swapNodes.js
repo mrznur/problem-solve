@@ -17,6 +17,3 @@ var swapPairs = function(head) {
     
     return dummy.next;
 };
-
-a = [1,2,3,4];
-console.log(swapPairs(a));
